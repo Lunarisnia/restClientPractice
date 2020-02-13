@@ -1,0 +1,40 @@
+#inspectUser {
+    background-color: rgb(228, 228, 228);
+    width: 20%;
+    padding: 12px;
+    margin: 2px;
+    border: none;
+    border-left-style: solid;
+    border-left-color: red;
+    border-left-width: 5px;
+}
+#profileBox {
+    width: 40%;
+    position: fixed;
+    left: 400px;
+    bottom: 428px;
+}
+#fullName {
+    background-color: rgb(228, 228, 228);
+    border-right-style: solid;
+    border-right-color: red;
+    border-right-width: 5px;
+}
+#profileBody {
+    background-color: rgb(228, 228, 228);
+    border-right-style: solid;
+    border-right-color: red;
+    border-right-width: 5px;
+}
+#postHeader {
+    background-color: rgb(228, 228, 228);
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    border-bottom-width: 5px;
+    width: 50%;
+}
+#postBody {
+    background-color: rgb(228, 228, 228);
+    margin-bottom: 90px;
+    width: 50%;
+}
